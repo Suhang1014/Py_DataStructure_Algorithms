@@ -35,3 +35,8 @@ if __name__ == "__main__":
     print(aq)
     item = aq.dequeue()
     print(item)
+    print(aq)
+
+
+
+
